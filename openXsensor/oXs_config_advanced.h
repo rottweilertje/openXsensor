@@ -51,9 +51,9 @@
 
 //#define FILL_TEST_1_2_3_WITH_FLOW_SENSOR_CONSUMPTION             // uncomment to activate this option
 
-//#define FILL_TEST1_WITH_GPS_NUMBER_OF_SAT                      // uncomment to activate this option; note: when there is a GPS fix 3D (or higher), then number of sat is increased by 100
+#define FILL_TEST1_WITH_GPS_NUMBER_OF_SAT                      // uncomment to activate this option; note: when there is a GPS fix 3D (or higher), then number of sat is increased by 100
 
-//#define FILL_TEST2_WITH_GPS_HDOP                               // uncomment to activate this option
+#define FILL_TEST2_WITH_GPS_HDOP                               // uncomment to activate this option
 
 //#define FILL_TEST_1_2_WITH_LQ                                  // uncomment to activate this option
 
